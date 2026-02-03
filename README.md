@@ -7,9 +7,9 @@ To explore this topic, we will use Quarkus, Kotlin, Prometheus, OpenTelemetry, a
 # What is Observability
 
 ## Observability` pillars
-<div style="width:20%; margin: auto;">
+
 [![Quarkus](https://images.surferseo.art/3b400a45-31e9-4741-8e9b-9d21a6a1e992.png)](https://images.surferseo.art/3b400a45-31e9-4741-8e9b-9d21a6a1e992.png)
-</div>
+
 * Metrics:
 * Traces:
 * Logs: 
