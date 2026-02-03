@@ -2,4 +2,12 @@
 
 # Observability with Quarkus
 Before diving into development, it is important to understand the concept of observability and its main pillars.
-To explore this topic, we will use Quarkus, Kotlin, Prometheus, OpenTelemetry, and Jaeger."  
+To explore this topic, we will use Quarkus, Kotlin, Prometheus, OpenTelemetry, and Jaeger. 
+
+# What is Observability
+
+## Observability` pillars
+[![Quarkus](https://images.surferseo.art/3b400a45-31e9-4741-8e9b-9d21a6a1e992.png)](https://images.surferseo.art/3b400a45-31e9-4741-8e9b-9d21a6a1e992.png)
+* Metrics:
+* Traces:
+* Logs: 
