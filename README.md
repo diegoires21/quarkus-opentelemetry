@@ -5,9 +5,8 @@ Before diving into development, it is important to understand the concept of obs
 To explore this topic, we will use Quarkus, Kotlin, Prometheus, OpenTelemetry, and Jaeger. 
 
 # What is Observability
-
+The primary objective of observability is to provide information that helps identify the root causes of problems. To achieve this, system outputs such as logs, metrics, and traces are utilized.
 ## Observability pillars
-
 [![Quarkus](https://images.surferseo.art/3b400a45-31e9-4741-8e9b-9d21a6a1e992.png)](https://images.surferseo.art/3b400a45-31e9-4741-8e9b-9d21a6a1e992.png)
 
 * Metrics:
